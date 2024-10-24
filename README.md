@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is part of the **Hackers League Hackathon** organized by TONSociety. Our team developed a Telegram mini app that provides users with price predictions for Ton tokens (Ton base projects) using machine learning techniques. 
+This project is part of the **Hackers League Hackathon** organized by TONSociety. Our team developed a Telegram mini app that provides users with price predictions for Ton tokens (Ton based projects) using machine learning techniques for time series prediction. 
 
 ## Features
 
@@ -14,7 +14,7 @@ This project is part of the **Hackers League Hackathon** organized by TONSociety
 
 ## Tech Stack
 
-- **Machine Learning**: [Insert any libraries you used, e.g., TensorFlow, scikit-learn]
+- **Machine Learning**: [TensorFlow, scikit-learn,]
 - **Programming Language**: Python
 - **Blockchain**: Ton blockchain
 - **Telegram API**: For building the mini app
